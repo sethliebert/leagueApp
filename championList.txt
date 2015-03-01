@@ -1,3 +1,4 @@
-Ziggs Mage
-Janna Support
-Braum Tank
+Ziggs
+Janna
+Braum
+Gnar
